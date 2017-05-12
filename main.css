@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+h1 {
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 5%;
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 56px;
+}
+
+p {
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 5%;
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 28px;
+}
+
+.logo {
+	position: fixed;
+	margin-top: 10px;
+	margin-left: 20px;
+	padding-bottom: 20px;
+}
+
+.nav {
+  color: rgb(229,116,15);
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 16px;
+  text-transform: uppercase;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	margin-left: 45px;
+}
+
+.nav li {
+  display: inline;
+}
+
+.head1 h1 {
+	padding-top: 3%;
+  color: rgb(255,255,255);
+}
+
+.head1 p {
+  color: rgb(255,255,255);
+}
+
+.head1 img {
+	position: absolute;
+	top: 120px;
+	left: 130px;
+}
+
+.head2 h1{
+	color: rgb(255, 255, 255);
+}
+
+.head2 p{
+	color: rgb(255, 255, 255);
+}
+
+.head3 h1{
+	color: rgb(255, 255, 255);
+}
+
+.head3 p{
+	color: rgb(255, 255, 255);
+}
+
+.learn-more {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 7%;
+}
+
+.learn-more h2 {
+  color: rgb(66,0,7);
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 26px;
+}
+
+.learn-more p {
+	color: rgb(66,0,7);
+  font-size: 15px;
+	margin-left: 0%;
+}
+
+#footerhr {
+	width: 100%;
+}
+
+footer {
+	margin-top: 2%;
+	margin-bottom: 2%;
+  color: rgb(66,0,7);
+  text-align: center;
+}
+
+/*Start Parallax*/
+
+.parallax1 {
+	background: url("images/hive.png") repeat fixed;
+}
+
+.parallax2 {
+	background: url("images/desk3.jpg") ;
+}
+
+.parallax3 {
+	background: url("images/citylights.jpg") repeat fixed;
+}
+
+.parallax-inner {
+	padding-top: 20%;
+	padding-bottom: 30%;
+}
+
+/*End Parallax*/
+
+a:link {color:rgb(233,165,42); text-decoration: none;}
+a:visited {color:rgb(233,165,42); text-decoration: none;}
+a:hover {color: rgb(66,0,7);}

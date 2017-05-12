@@ -1,0 +1,28 @@
+.head h1 {
+  color: rgb(255,255,255);
+}
+
+.head p {
+  color: rgb(255,255,255);
+}
+
+.head ul {
+	margin-left: 10%;
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  list-style-type: none;
+}
+
+/*Start Parallax*/
+
+.parallax1 {
+	background: url("images/slate.jpg") repeat fixed;
+}
+
+.parallax-inner {
+	padding-top: 20%;
+	padding-bottom: 30%;
+}
+
+/*End Parallax*/

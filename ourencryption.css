@@ -1,0 +1,52 @@
+.head h1 {
+  color: rgb(255,255,255);
+}
+
+.head p {
+  color: rgb(255,255,255);
+}
+
+.explanation {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: rgb(227,160,42);
+  background-color: rgb(255, 255, 255);
+}
+
+.explanation h2{
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 5%;
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 30px;
+}
+
+.explanation p{
+  text-align: left;
+	margin-left: 10%;
+  margin-right: 5%;
+  font-family:  Avenir, "Gill Sans", Seravek;
+  font-size: 20px;
+}
+
+/*Start Parallax*/
+
+.parallax1 {
+	background: url("images/hack.jpg") repeat fixed;
+}
+
+.parallax2 {
+	background: url("images/wood.jpg") repeat fixed;
+}
+
+.parallax-inner {
+	padding-top: 20%;
+	padding-bottom: 30%;
+}
+
+.parallax-inner2 {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+/*End Parallax*/
