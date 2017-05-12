@@ -1,0 +1,2 @@
+# NectarIM
+Formerly NectarIM.com, this website was a portal for students in the same classes to chat, teach and collaborate.  To represent the fluidity of the web app, a parallax design was adopted so that as the user scrolled thorugh the front of the website, he/she would feel a sense of smoothness to their experience. The logo was developed inhouse and represents the word Nectar as well as the interconnectedness users experience. 
